@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    min-height: 500px;
+}
+
+button {
+    border: none;
+    padding: 10px 15px;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+input {
+    outline: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
